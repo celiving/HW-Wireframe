@@ -11,37 +11,39 @@ width: 960px;
 font-size: 18px;
 margin-left: 10%;
 margin-right: 10%;
-padding-top: 15px;
-padding-bottom: 15px;
+padding-top: 20px;
+padding-bottom: 20px;
 }
 
 header{
     background: #ebebeb;
     padding: 20px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 nav{
     background: #ebebeb;
     padding: 20px;
-    margin-bottom:10px;
+    margin-bottom:15px;
 }
 
 section{
     padding: 10px;
+    padding-top:40px;
     float:left;
     background: #ebebeb;
+    margin-bottom: 15px;
     width: 495px;
     
 }
 aside{
     float:right;
     background: #ebebeb;
-    width: 455px;
+    width: 450px;
     padding: 10px;
-    padding-bottom: 166.09px;
-    margin-left: 10px;
-    margin-bottom: 10px;
+    padding-bottom: 196.09px;
+    margin-left: 15px;
+    margin-bottom: 15px;
 }
 
 footer{
@@ -49,6 +51,7 @@ footer{
     margin-top: 20px;
     clear: both;
     border: 10px;
+    padding: 20px;
 }
 
 article{
